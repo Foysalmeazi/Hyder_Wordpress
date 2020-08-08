@@ -1,0 +1,209 @@
+0000.003 (0) Opened log file at time: Fri, 07 Aug 2020 06:50:01 +0000 on http://localhost/Hyder_Portfolio
+0000.008 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-MAABDB1 10.0 build 10240 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 32.6M | 20M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.011 (0) Free space on disk containing Updraft's temporary directory: 53569.2 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.019 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.047 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1596637705, seconds_ago=145296)
+0000.055 (0) Set semaphore last lock (fd) time to 2020-08-07 06:50:01
+0000.057 (0) Semaphore lock (fd) complete
+0000.063 (0) Backup run: resumption=0, nonce=c2113196a096, file_nonce=c2113196a096 begun at=1596783001 (0s ago), job type=backup
+0000.068 (0) Scheduling a resumption (1) after 300 seconds (1596783301) in case this run gets aborted
+0000.092 (0) Checking if we have a zip executable available
+0000.095 (0) Creation of backups of directories: beginning
+0000.102 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.951 (0) Total entities for the zip file: 585 directories, 2964 files (0 skipped as non-modified), 64.4 MB
+0002.698 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.784 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.4 MB, 126 (126) files added so far); re-opening (prior size: 0 KB)
+0003.366 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 200 files added (on-disk size: 1551.7 KB)
+0004.517 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 300 files added (on-disk size: 1551.7 KB)
+0004.820 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 400 files added (on-disk size: 1551.7 KB)
+0005.002 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 500 files added (on-disk size: 1551.7 KB)
+0005.103 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 600 files added (on-disk size: 1551.7 KB)
+0005.126 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.1 MB, 2964 files batched, 501 (627) added so far); re-opening (prior size: 1551.7 KB)
+0008.078 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 700 files added (on-disk size: 6591.5 KB)
+0008.556 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 800 files added (on-disk size: 6591.5 KB)
+0008.915 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 900 files added (on-disk size: 6591.5 KB)
+0009.374 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 1000 files added (on-disk size: 6591.5 KB)
+0009.603 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 1100 files added (on-disk size: 6591.5 KB)
+0009.678 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.5 MB, 2964 files batched, 501 (1128) added so far); re-opening (prior size: 6591.5 KB)
+0011.559 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 1200 files added (on-disk size: 10791.6 KB)
+0011.789 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 1300 files added (on-disk size: 10791.6 KB)
+0011.954 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 1400 files added (on-disk size: 10791.6 KB)
+0012.188 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 1500 files added (on-disk size: 10791.6 KB)
+0012.501 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 1600 files added (on-disk size: 10791.6 KB)
+0012.568 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.8 MB, 2964 files batched, 501 (1629) added so far); re-opening (prior size: 10791.6 KB)
+0013.490 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 1700 files added (on-disk size: 13217.2 KB)
+0013.739 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 1800 files added (on-disk size: 13217.2 KB)
+0014.194 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 1900 files added (on-disk size: 13217.2 KB)
+0014.315 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 2000 files added (on-disk size: 13217.2 KB)
+0014.554 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 2100 files added (on-disk size: 13217.2 KB)
+0014.616 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18.9 MB, 2964 files batched, 501 (2130) added so far); re-opening (prior size: 13217.2 KB)
+0017.104 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 2200 files added (on-disk size: 18524.5 KB)
+0017.309 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 2300 files added (on-disk size: 18524.5 KB)
+0017.506 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 2400 files added (on-disk size: 18524.5 KB)
+0017.719 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 2500 files added (on-disk size: 18524.5 KB)
+0017.915 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 2600 files added (on-disk size: 18524.5 KB)
+0017.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 2964 files batched, 501 (2631) added so far); re-opening (prior size: 18524.5 KB)
+0018.504 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 2700 files added (on-disk size: 19228.8 KB)
+0018.830 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 2800 files added (on-disk size: 19228.8 KB)
+0019.061 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip.tmp: 2900 files added (on-disk size: 19228.8 KB)
+0019.922 (0) Created plugins zip (0) - 19816.1 KB in 19.8 s (1000 KB/s) (sha1: 4947103663ec3f71bb5029571357ae61016932aa, sha256: 6639f5b50b0300062d9201a2a242ee70ba0d144dadb79e8dbf244eb82d75b511)
+0019.928 (0) Beginning creation of dump of themes (split every: 400 MB)
+0020.095 (0) Total entities for the zip file: 103 directories, 352 files (0 skipped as non-modified), 6.7 MB
+0020.273 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0020.439 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0020.676 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0021.487 (0) Created themes zip (0) - 3661.9 KB in 1.6 s (2354.6 KB/s) (sha1: 9ba5b067f9168c6bb99c62c4544ffad485502bcf, sha256: 8292014ed55f516006f8361b6cfcb8ee45e6c7862f5c34cfbb17538ad756d9af)
+0021.494 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0021.496 (0) Looking for candidates to backup in: C:\xampp\htdocs\Hyder_Portfolio/wp-content/uploads
+0021.498 (0) finding files: 2020: adding to list (1)
+0021.500 (0) finding files: elementor: adding to list (2)
+0021.501 (0) finding files: elementor_icons_files: adding to list (3)
+0021.503 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0021.607 (0) Total entities for the zip file: 19 directories, 210 files (0 skipped as non-modified), 47.8 MB
+0022.082 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (33 MB, 210 files batched, 72 (72) added so far); re-opening (prior size: 0 KB)
+0022.289 (0) A useful amount of data was added after this amount of zip processing: 1.5 s (normalised: 1.1 s, rate: 22413.6 KB/s)
+0022.293 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.5061390399933, normalised_time=1.1421655676342, max_time=22.288344144821, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0022.428 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-uploads.zip.tmp: 100 files added (on-disk size: 33773.1 KB)
+0022.800 (0) Zip: backup_2020-08-07-0650_HyderTechnology_c2113196a096-uploads.zip.tmp: 200 files added (on-disk size: 33773.1 KB)
+0023.887 (0) Created uploads zip (0) - 48814.8 KB in 2.4 s (20506.5 KB/s) (sha1: 7525d459a681997be91f85a9a1d5cd0e7f6cb9af, sha256: 9881d05c4dead03b81abeccd8775bd92527cb84e9ee528f555299684d4c376c6)
+0023.894 (0) Beginning backup of other directories found in the content directory (index: 0)
+0023.896 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0023.898 (0) Looking for candidates to backup in: C:\xampp\htdocs\Hyder_Portfolio/wp-content
+0023.900 (0) finding files: fonts: adding to list (1)
+0023.903 (0) finding files: index.php: adding to list (2)
+0023.904 (0) finding files: plugins: skipping: this is the plugins directory
+0023.906 (0) finding files: themes: skipping: this is the themes directory
+0023.908 (0) finding files: updraft: skipping: this is the updraft directory
+0023.910 (0) finding files: upgrade: skipping: excluded by options
+0023.914 (0) finding files: uploads: skipping: this is the uploads directory
+0023.936 (0) Total entities for the zip file: 3 directories, 13 files (0 skipped as non-modified), 0.1 MB
+0023.972 (0) Created others zip (0) - 154.9 KB in 0.1 s (2954.3 KB/s) (sha1: 37d3ad6913c43d798f72da60574c7d04a941f9b7, sha256: ee5e3c704293c7d45fb873df59877bc4e1391eff7d9efac8de45e76381adb894)
+0023.982 (0) Saving backup status to database (elements: 8)
+0023.986 (0) Beginning creation of database dump (WordPress DB)
+0024.006 (0) Table wp_options: Total expected rows (approximate): 250
+0024.131 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 252 in 0.12 seconds
+0024.134 (0) Table wp_options: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_options.table.gz - 261.7 KB)
+0024.143 (0) Table wp_users: Total expected rows (approximate): 0
+0024.149 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0024.152 (0) Table wp_users: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_users.table.gz - 0.6 KB)
+0024.160 (0) Table wp_usermeta: Total expected rows (approximate): 27
+0024.166 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 27 in 0.00 seconds
+0024.168 (0) Table wp_usermeta: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_usermeta.table.gz - 1.3 KB)
+0024.184 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0024.190 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0024.192 (0) Table wp_commentmeta: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0024.208 (0) Table wp_comments: Total expected rows (approximate): 0
+0024.214 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0024.217 (0) Table wp_comments: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_comments.table.gz - 0.5 KB)
+0024.229 (0) Table wp_links: Total expected rows (approximate): 0
+0024.234 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0024.236 (0) Table wp_links: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_links.table.gz - 0.4 KB)
+0024.245 (0) Table wp_postmeta: Total expected rows (approximate): 4756
+0025.162 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 4542 in 0.92 seconds
+0025.167 (0) Table wp_postmeta: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_postmeta.table.gz - 794.9 KB)
+0025.180 (0) Table wp_posts: Total expected rows (approximate): 910
+0025.332 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 1150 in 0.15 seconds
+0025.338 (0) Table wp_posts: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_posts.table.gz - 104.5 KB)
+0025.358 (0) Table wp_term_relationships: Total expected rows (approximate): 20
+0025.369 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 20 in 0.01 seconds
+0025.378 (0) Table wp_term_relationships: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0025.429 (0) Table wp_term_taxonomy: Total expected rows (approximate): 5
+0025.439 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 5 in 0.00 seconds
+0025.448 (0) Table wp_term_taxonomy: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0025.477 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0025.483 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0025.486 (0) Table wp_termmeta: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_termmeta.table.gz - 0.4 KB)
+0025.494 (0) Table wp_terms: Total expected rows (approximate): 4
+0025.501 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 5 in 0.00 seconds
+0025.503 (0) Table wp_terms: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_terms.table.gz - 0.5 KB)
+0025.515 (0) Table wp_wpm_6310_icons: Total expected rows (approximate): 39
+0025.521 (0) Table wp_wpm_6310_icons: Rows added in this batch (start page: 0; next: finished): 39 in 0.00 seconds
+0025.525 (0) Table wp_wpm_6310_icons: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_wpm_6310_icons.table.gz - 1.2 KB)
+0025.538 (0) Table wp_wpm_6310_member: Total expected rows (approximate): 3
+0025.546 (0) Table wp_wpm_6310_member: Rows added in this batch (start page: 0; next: finished): 3 in 0.00 seconds
+0025.548 (0) Table wp_wpm_6310_member: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_wpm_6310_member.table.gz - 1 KB)
+0025.559 (0) Table wp_wpm_6310_style: Total expected rows (approximate): 2
+0025.566 (0) Table wp_wpm_6310_style: Rows added in this batch (start page: 0; next: finished): 1 in 0.01 seconds
+0025.569 (0) Table wp_wpm_6310_style: finishing file (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_wpm_6310_style.table.gz - 0.6 KB)
+0025.575 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_options.table.gz (1/15): adding to final database dump
+0025.676 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_users.table.gz (2/15): adding to final database dump
+0025.683 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_usermeta.table.gz (3/15): adding to final database dump
+0025.686 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_commentmeta.table.gz (4/15): adding to final database dump
+0025.690 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_comments.table.gz (5/15): adding to final database dump
+0025.693 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_links.table.gz (6/15): adding to final database dump
+0025.697 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_postmeta.table.gz (7/15): adding to final database dump
+0026.077 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_posts.table.gz (8/15): adding to final database dump
+0026.133 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_term_relationships.table.gz (9/15): adding to final database dump
+0026.135 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_term_taxonomy.table.gz (10/15): adding to final database dump
+0026.138 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_termmeta.table.gz (11/15): adding to final database dump
+0026.141 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_terms.table.gz (12/15): adding to final database dump
+0026.143 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_wpm_6310_icons.table.gz (13/15): adding to final database dump
+0026.146 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_wpm_6310_member.table.gz (14/15): adding to final database dump
+0026.148 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db-table-wp_wpm_6310_style.table.gz (15/15): adding to final database dump
+0026.163 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db.gz: finished writing out complete database file (1144 KB)
+0026.198 (0) Total database tables backed up: 15 (backup_2020-08-07-0650_HyderTechnology_c2113196a096-db.gz, size: 1193220, sha1: 6a8f5378c2ffe36e2a29a1fe4caa7be6ba5a7875, sha256: d9a6c785609cb7936d8009cc805bcbdf32441351e72ffaf8765e835da7ed9a68)
+0026.209 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0026.211 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0026.213 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0026.215 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-others.zip: others: This file has not yet been successfully uploaded: will queue
+0026.217 (0) backup_2020-08-07-0650_HyderTechnology_c2113196a096-db.gz: db: This file has not yet been successfully uploaded: will queue
+0026.219 (0) Saving backup history. Total backup size: 71.9 MB
+0026.224 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0026.230 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0026.233 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6ec1cba540b01fe5fdb5801d1aced0cf)
+0029.938 (0) Google Drive: quota usage: used=552.3 MB, total=15360 MB, available=14807.7 MB
+0029.942 (0) Google Drive: backup_2020-08-07-0650_HyderTechnology_c2113196a096-plugins.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0032.179 (0) Googledrive chunked upload: 5.2 % uploaded (1048576)
+0033.486 (0) Googledrive chunked upload: 10.3 % uploaded (2097152)
+0034.739 (0) Googledrive chunked upload: 15.5 % uploaded (3145728)
+0035.997 (0) Googledrive chunked upload: 20.7 % uploaded (4194304)
+0096.010 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0096.012 (0) An error condition has occurred for the first time during this job
+0096.837 (0) Google Drive: quota usage: used=552.3 MB, total=15360 MB, available=14807.7 MB
+0096.839 (0) Google Drive: backup_2020-08-07-0650_HyderTechnology_c2113196a096-themes.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0098.986 (0) Googledrive chunked upload: 28 % uploaded (1048576)
+0100.262 (0) Googledrive chunked upload: 55.9 % uploaded (2097152)
+0101.489 (0) Googledrive chunked upload: 83.9 % uploaded (3145728)
+0103.634 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0103.646 (0) Google Drive: OK: Archive backup_2020-08-07-0650_HyderTechnology_c2113196a096-themes.zip uploaded in 6.8 seconds
+0103.649 (0) Recording as successfully uploaded: backup_2020-08-07-0650_HyderTechnology_c2113196a096-themes.zip
+0103.659 (0) Deleting local file: backup_2020-08-07-0650_HyderTechnology_c2113196a096-themes.zip: OK
+0104.351 (0) Google Drive: quota usage: used=555.9 MB, total=15360 MB, available=14804.1 MB
+0104.355 (0) Google Drive: backup_2020-08-07-0650_HyderTechnology_c2113196a096-uploads.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0165.182 (0) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0165.762 (0) Google Drive: quota usage: used=555.9 MB, total=15360 MB, available=14804.1 MB
+0165.765 (0) Google Drive: backup_2020-08-07-0650_HyderTechnology_c2113196a096-others.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0168.304 (0) Googledrive chunked upload: 100 % uploaded
+0168.315 (0) Google Drive: OK: Archive backup_2020-08-07-0650_HyderTechnology_c2113196a096-others.zip uploaded in 2.55 seconds
+0168.318 (0) Recording as successfully uploaded: backup_2020-08-07-0650_HyderTechnology_c2113196a096-others.zip
+0168.328 (0) Deleting local file: backup_2020-08-07-0650_HyderTechnology_c2113196a096-others.zip: OK
+0168.950 (0) Google Drive: quota usage: used=556 MB, total=15360 MB, available=14804 MB
+0168.952 (0) Google Drive: backup_2020-08-07-0650_HyderTechnology_c2113196a096-db.gz: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0171.058 (0) Googledrive chunked upload: 87.9 % uploaded (1048576)
+0172.894 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0172.905 (0) Google Drive: OK: Archive backup_2020-08-07-0650_HyderTechnology_c2113196a096-db.gz uploaded in 3.95 seconds
+0172.908 (0) Recording as successfully uploaded: backup_2020-08-07-0650_HyderTechnology_c2113196a096-db.gz
+0172.917 (0) Deleting local file: backup_2020-08-07-0650_HyderTechnology_c2113196a096-db.gz: OK
+0172.922 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0172.924 (0) Number of backup sets in history: 2; groups (db): 1
+0172.926 (0) Examining (for databases) backup set with group_id=0, nonce=c2113196a096, datestamp=1596783001 (Aug 07 2020 06:50:01)
+0172.928 (0) This backup set is the backup set just made, so will not be deleted.
+0172.928 (0) Examining (for databases) backup set with group_id=0, nonce=244dba4ad8cc, datestamp=1596637705 (Aug 05 2020 14:28:25)
+0172.928 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0172.930 (0) Number of backup sets in history: 2; groups (files): 1
+0172.931 (0) Examining (for files) backup set with nonce=c2113196a096, datestamp=1596783001 (Aug 07 2020 06:50:01)
+0172.932 (0) This backup set is the backup set just made, so will not be deleted.
+0172.933 (0) This backup set is the backup set just made, so will not be deleted.
+0172.934 (0) This backup set is the backup set just made, so will not be deleted.
+0172.934 (0) This backup set is the backup set just made, so will not be deleted.
+0172.934 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0172.936 (0) Examining (for files) backup set with nonce=244dba4ad8cc, datestamp=1596637705 (Aug 05 2020 14:28:25)
+0172.936 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0172.936 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0172.941 (0) Resume backup (c2113196a096, 0): finish run
+0172.946 (0) Decremented the semaphore (fd) by 1
+0172.949 (0) Semaphore (fd) unlocked
+0172.951 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0172.957 (0) Rescheduling resumption 1: moving to 100 seconds from now (1596783274)
+0172.961 (0) The backup has not finished; a resumption is scheduled

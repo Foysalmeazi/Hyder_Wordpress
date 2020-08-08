@@ -1,0 +1,214 @@
+0206.891 (1) Opened log file at time: Sun, 19 Jul 2020 17:05:48 +0000 on http://localhost/Hyder_Portfolio
+0206.893 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-MAABDB1 10.0 build 10240 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 28.1M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0206.895 (1) Free space on disk containing Updraft's temporary directory: 39479.7 MB
+0206.898 (1) Backup run: resumption=1, nonce=0b5b6842d543, file_nonce=0b5b6842d543 begun at=1595178141 (207s ago), job type=backup, previous check-in=31.3s
+0206.901 (1) Scheduling a resumption (2) after 300 seconds (1595178648) in case this run gets aborted
+0206.916 (1) Checking if we have a zip executable available
+0206.918 (1) Creation of backups of directories: already finished
+0206.920 (1) Saving backup status to database (elements: 8)
+0206.928 (1) Database dump (WordPress DB): Creation was completed already
+0206.932 (1) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0206.933 (1) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0206.935 (1) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0206.937 (1) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip: others: This file has not yet been successfully uploaded: will queue
+0206.938 (1) backup_2020-07-19-1702_HyderTechnology_0b5b6842d543-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+0206.940 (1) Saving backup history. Total backup size: Unknown
+0206.943 (1) Requesting upload of the files that have not yet been successfully uploaded (4)
+0206.946 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0206.948 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6ec1cba540b01fe5fdb5801d1aced0cf)
+0209.650 (1) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0209.652 (1) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0220.955 (1) Googledrive chunked upload: 7.3 % uploaded (1048576)
+0280.968 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0280.970 (1) An error condition has occurred for the first time during this job
+0284.419 (1) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0284.420 (1) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0345.522 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0347.043 (1) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0347.045 (1) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0361.711 (1) Googledrive chunked upload: 5.9 % uploaded (1048576)
+0363.083 (1) Googledrive chunked upload: 11.8 % uploaded (2097152)
+0364.436 (1) Googledrive chunked upload: 17.7 % uploaded (3145728)
+0365.732 (1) Googledrive chunked upload: 23.6 % uploaded (4194304)
+0375.989 (1) Googledrive chunked upload: 29.5 % uploaded (5242880)
+0380.432 (1) Googledrive chunked upload: 35.4 % uploaded (6291456)
+0411.863 (1) Opened log file at time: Sun, 19 Jul 2020 17:09:13 +0000 on http://localhost/Hyder_Portfolio
+0411.865 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-MAABDB1 10.0 build 10240 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 28.1M | 22M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0411.867 (1) Free space on disk containing Updraft's temporary directory: 39479.6 MB
+0411.872 (1) Backup run: resumption=1, nonce=0b5b6842d543, file_nonce=0b5b6842d543 begun at=1595178141 (412s ago), job type=backup, previous check-in=31.3s
+0411.875 (1) Scheduling a resumption (2) after 300 seconds (1595178853) in case this run gets aborted
+0411.897 (1) Checking if we have a zip executable available
+0411.900 (1) Creation of backups of directories: already finished
+0411.902 (1) Saving backup status to database (elements: 8)
+0411.912 (1) Database dump (WordPress DB): Creation was completed already
+0411.917 (1) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0411.919 (1) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0411.921 (1) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0411.924 (1) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip: others: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (C:\xampp\htdocs\Hyder_Portfolio/wp-content/updraft/backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip)
+0411.926 (1) Recording as successfully uploaded: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip
+0411.930 (1) backup_2020-07-19-1702_HyderTechnology_0b5b6842d543-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+0411.932 (1) Saving backup history. Total backup size: Unknown
+0411.936 (1) Requesting upload of the files that have not yet been successfully uploaded (3)
+0411.937 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0411.939 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6ec1cba540b01fe5fdb5801d1aced0cf)
+0415.446 (1) Google Drive: quota usage: used=49.6 MB, total=15360 MB, available=15310.4 MB
+0415.447 (1) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0416.399 (1) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: upload already began; attempting to resume from byte 1835007
+0417.699 (1) Googledrive chunked upload: 20.1 % uploaded (2883584)
+0421.198 (1) Googledrive chunked upload: 27.5 % uploaded (3932160)
+0440.441 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0441.661 (1) Google Drive: quota usage: used=50.1 MB, total=15360 MB, available=15309.9 MB
+0441.673 (1) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0441.686 (1) PHP event: code E_WARNING: filesize(): stat failed for C:\xampp\htdocs\Hyder_Portfolio/wp-content/updraft/backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip (line 649, C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\methods\googledrive.php)
+0441.700 (1) PHP event: code E_WARNING: filesize(): stat failed for C:\xampp\htdocs\Hyder_Portfolio/wp-content/updraft/backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip (line 1101, C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\methods\googledrive.php)
+0441.715 (1) Google Drive: OK: Archive backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip uploaded in 0.01 seconds
+0441.727 (1) Recording as successfully uploaded: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip
+0441.778 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0441.793 (1) Number of backup sets in history: 1; groups (db): 1
+0441.808 (1) Examining (for databases) backup set with group_id=0, nonce=0b5b6842d543, datestamp=1595178141 (Jul 19 2020 17:02:21)
+0441.843 (1) This backup set is the backup set just made, so will not be deleted.
+0441.843 (1) Number of backup sets in history: 1; groups (files): 1
+0441.857 (1) Examining (for files) backup set with nonce=0b5b6842d543, datestamp=1595178141 (Jul 19 2020 17:02:21)
+0441.857 (1) This backup set is the backup set just made, so will not be deleted.
+0441.870 (1) This backup set is the backup set just made, so will not be deleted.
+0441.871 (1) This backup set is the backup set just made, so will not be deleted.
+0441.871 (1) This backup set is the backup set just made, so will not be deleted.
+0441.871 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0441.884 (1) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0441.907 (1) Resume backup (0b5b6842d543, 1): finish run
+0441.923 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0441.939 (1) The backup has not finished; a resumption is scheduled
+0481.205 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0481.208 (1) An error condition has occurred for the first time during this job
+0483.231 (1) Google Drive: quota usage: used=50.1 MB, total=15360 MB, available=15309.9 MB
+0483.234 (1) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0486.620 (1) Googledrive chunked upload: 28 % uploaded (1048576)
+0546.631 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0547.572 (1) Google Drive: quota usage: used=50.1 MB, total=15360 MB, available=15309.9 MB
+0547.576 (1) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0549.187 (1) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip: upload already began; attempting to resume from byte 7077887
+0552.047 (1) Googledrive chunked upload: 45.7 % uploaded (8126464)
+0554.876 (1) Googledrive chunked upload: 51.6 % uploaded (9175040)
+0556.666 (1) Googledrive chunked upload: 57.5 % uploaded (10223616)
+0559.355 (1) Googledrive chunked upload: 63.4 % uploaded (11272192)
+0563.165 (1) Googledrive chunked upload: 69.3 % uploaded (12320768)
+0564.486 (1) Googledrive chunked upload: 75.2 % uploaded (13369344)
+0566.421 (1) Googledrive chunked upload: 81.1 % uploaded (14417920)
+0568.529 (1) Googledrive chunked upload: 87 % uploaded (15466496)
+0628.543 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0628.548 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0628.550 (1) Number of backup sets in history: 1; groups (db): 1
+0628.552 (1) Examining (for databases) backup set with group_id=0, nonce=0b5b6842d543, datestamp=1595178141 (Jul 19 2020 17:02:21)
+0628.553 (1) This backup set is the backup set just made, so will not be deleted.
+0628.553 (1) Number of backup sets in history: 1; groups (files): 1
+0628.555 (1) Examining (for files) backup set with nonce=0b5b6842d543, datestamp=1595178141 (Jul 19 2020 17:02:21)
+0628.555 (1) This backup set is the backup set just made, so will not be deleted.
+0628.557 (1) This backup set is the backup set just made, so will not be deleted.
+0628.557 (1) This backup set is the backup set just made, so will not be deleted.
+0628.557 (1) This backup set is the backup set just made, so will not be deleted.
+0628.557 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0628.559 (1) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0628.563 (1) Resume backup (0b5b6842d543, 1): finish run
+0628.565 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0628.568 (1) The backup has not finished; a resumption is scheduled
+0764.545 (2) Opened log file at time: Sun, 19 Jul 2020 17:15:06 +0000 on http://localhost/Hyder_Portfolio
+0764.547 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-MAABDB1 10.0 build 10240 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 28.2M | 14M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0764.549 (2) Free space on disk containing Updraft's temporary directory: 39478.8 MB
+0764.553 (2) Backup run: resumption=2, nonce=0b5b6842d543, file_nonce=0b5b6842d543 begun at=1595178141 (765s ago), job type=backup, previous check-in=156.7s
+0764.556 (2) Scheduling a resumption (3) after 300 seconds (1595179206) in case this run gets aborted
+0764.570 (2) Checking if we have a zip executable available
+0764.572 (2) Creation of backups of directories: already finished
+0764.575 (2) Saving backup status to database (elements: 8)
+0764.584 (2) Database dump (WordPress DB): Creation was completed already
+0764.589 (2) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0764.591 (2) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0764.594 (2) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0764.595 (2) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip: others: This file has already been successfully uploaded
+0764.597 (2) backup_2020-07-19-1702_HyderTechnology_0b5b6842d543-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+0764.598 (2) Saving backup history. Total backup size: Unknown
+0764.601 (2) Requesting upload of the files that have not yet been successfully uploaded (3)
+0764.605 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0764.606 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6ec1cba540b01fe5fdb5801d1aced0cf)
+0766.917 (2) Google Drive: quota usage: used=50.1 MB, total=15360 MB, available=15309.9 MB
+0766.919 (2) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0767.190 (2) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: upload already began; attempting to resume from byte 4980735
+0768.594 (2) Googledrive chunked upload: 42.1 % uploaded (6029312)
+0770.210 (2) Googledrive chunked upload: 49.4 % uploaded (7077888)
+0771.288 (2) Googledrive chunked upload: 56.7 % uploaded (8126464)
+0774.144 (2) Googledrive chunked upload: 64.1 % uploaded (9175040)
+0777.053 (2) Googledrive chunked upload: 71.4 % uploaded (10223616)
+0778.554 (2) Googledrive chunked upload: 78.7 % uploaded (11272192)
+0781.224 (2) Googledrive chunked upload: 86 % uploaded (12320768)
+0841.246 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\Hyder_Portfolio\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0841.248 (2) An error condition has occurred for the first time during this job
+0842.471 (2) Google Drive: quota usage: used=50.1 MB, total=15360 MB, available=15309.9 MB
+0842.474 (2) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0842.889 (2) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip: upload already began; attempting to resume from byte 1835007
+0846.206 (2) Googledrive chunked upload: 76.9 % uploaded (2883584)
+0853.219 (2) Googledrive chunked upload: 100 % uploaded (2883584)
+0853.233 (2) Google Drive: OK: Archive backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip uploaded in 10.76 seconds
+0853.237 (2) Recording as successfully uploaded: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip
+0853.247 (2) Deleting local file: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip: OK
+0854.698 (2) Google Drive: quota usage: used=53.7 MB, total=15360 MB, available=15306.3 MB
+0854.701 (2) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+0855.374 (2) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip: upload already began; attempting to resume from byte 16252927
+0862.607 (2) Googledrive chunked upload: 97.4 % uploaded (17301504)
+0897.269 (2) Googledrive chunked upload: 100 % uploaded (17301504)
+0897.277 (2) Google Drive: OK: Archive backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip uploaded in 42.57 seconds
+0897.279 (2) Recording as successfully uploaded: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip
+0897.287 (2) Deleting local file: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip: OK
+0897.292 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0897.295 (2) Number of backup sets in history: 1; groups (db): 1
+0897.297 (2) Examining (for databases) backup set with group_id=0, nonce=2276f1b3f373, datestamp=1595178141 (Jul 19 2020 17:02:21)
+0897.299 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0897.301 (2) Number of backup sets in history: 1; groups (files): 1
+0897.302 (2) Examining (for files) backup set with nonce=2276f1b3f373, datestamp=1595178141 (Jul 19 2020 17:02:21)
+0897.302 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0897.304 (2) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0897.311 (2) Resume backup (0b5b6842d543, 2): finish run
+0897.314 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0897.318 (2) The backup has not finished; a resumption is scheduled
+1098.477 (3) Opened log file at time: Sun, 19 Jul 2020 17:20:40 +0000 on http://localhost/Hyder_Portfolio
+1098.479 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-MAABDB1 10.0 build 10240 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 28.2M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+1098.480 (3) Free space on disk containing Updraft's temporary directory: 39499.2 MB
+1098.484 (3) Backup run: resumption=3, nonce=0b5b6842d543, file_nonce=0b5b6842d543 begun at=1595178141 (1099s ago), job type=backup, previous check-in=132.7s
+1098.487 (3) Scheduling a resumption (4) after 300 seconds (1595179540) in case this run gets aborted
+1098.501 (3) Checking if we have a zip executable available
+1098.502 (3) Creation of backups of directories: already finished
+1098.504 (3) Saving backup status to database (elements: 8)
+1098.512 (3) Database dump (WordPress DB): Creation was completed already
+1098.517 (3) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1098.518 (3) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-themes.zip: themes: This file has already been successfully uploaded
+1098.520 (3) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-uploads.zip: uploads: This file has already been successfully uploaded
+1098.521 (3) backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-others.zip: others: This file has already been successfully uploaded
+1098.523 (3) backup_2020-07-19-1702_HyderTechnology_0b5b6842d543-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+1098.525 (3) Saving backup history. Total backup size: Unknown
+1098.529 (3) Requesting upload of the files that have not yet been successfully uploaded (1)
+1098.532 (3) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1098.534 (3) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6ec1cba540b01fe5fdb5801d1aced0cf)
+1111.802 (3) Google Drive: quota usage: used=70.6 MB, total=15360 MB, available=15289.4 MB
+1111.804 (3) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: Attempting to upload to Google Drive (into folder id: 1dKuH7pNYnZtzR6cTR0xHRXe9-evyot8v)
+1114.175 (3) Google Drive: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: upload already began; attempting to resume from byte 13107199
+1129.417 (3) Googledrive chunked upload: 98.8 % uploaded (14155776)
+1132.151 (3) Googledrive chunked upload: 100 % uploaded (14155776)
+1132.160 (3) Google Drive: OK: Archive backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip uploaded in 20.35 seconds
+1132.162 (3) Recording as successfully uploaded: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip
+1132.169 (3) Deleting local file: backup_2020-07-19-1702_HyderTechnology_2276f1b3f373-plugins.zip: OK
+1132.181 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+1132.183 (3) Number of backup sets in history: 1; groups (db): 1
+1132.185 (3) Examining (for databases) backup set with group_id=0, nonce=0b5b6842d543, datestamp=1595178141 (Jul 19 2020 17:02:21)
+1132.187 (3) This backup set is the backup set just made, so will not be deleted.
+1132.187 (3) Number of backup sets in history: 1; groups (files): 1
+1132.190 (3) Examining (for files) backup set with nonce=0b5b6842d543, datestamp=1595178141 (Jul 19 2020 17:02:21)
+1132.190 (3) This backup set is the backup set just made, so will not be deleted.
+1132.192 (3) This backup set is the backup set just made, so will not be deleted.
+1132.192 (3) This backup set is the backup set just made, so will not be deleted.
+1132.192 (3) This backup set is the backup set just made, so will not be deleted.
+1132.192 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1132.193 (3) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1132.197 (3) Resume backup (0b5b6842d543, 3): finish run
+1132.200 (3) There were no errors in the uploads, so the 'resume' event (4) is being unscheduled
+1132.205 (3) Fetching RSS news feed
+1132.251 (3) Fetched RSS news feed; result is a: SimplePie
+1132.275 (3) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: its.f...
+1133.286 (3) The backup apparently succeeded and is now complete
